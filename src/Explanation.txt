@@ -1,0 +1,10 @@
+Explicación:
+
+- Se debe crear un tipo de impresora adicional en el paquete de servicios y que implemente la clase
+  "Printer".
+- En el archivo main se instancia una nueva impresora y se le asigna esta impresora  al printer, este
+  se encarga de realizar la impresion de acuerdo a la impresora(servicio) que se le pasa como
+  argumento.
+- Si se desea utilizar otra impresora esta debe de ser asignada antes al cliente y despues llamar
+  al metodo que realiza la impresion.
+
